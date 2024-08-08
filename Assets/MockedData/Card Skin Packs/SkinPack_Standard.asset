@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b6f9aa54b7fef9419f3d7db172dd5c5, type: 3}
+  m_Name: SkinPack_Standard
+  m_EditorClassIdentifier: 
+  _verseCardSprite: {fileID: 1513232924, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+  _skinDatasByColor:
+  - Color: 0
+    SkinDatas:
+    - Type: 0
+      Sprite: {fileID: -1889737573, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 1
+      Sprite: {fileID: -230634319, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 2
+      Sprite: {fileID: 206636248, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 3
+      Sprite: {fileID: 1245097360, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 4
+      Sprite: {fileID: -885721171, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 5
+      Sprite: {fileID: -169284773, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 6
+      Sprite: {fileID: -590951772, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 7
+      Sprite: {fileID: 639690251, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 8
+      Sprite: {fileID: -154957463, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 9
+      Sprite: {fileID: -1980867444, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 10
+      Sprite: {fileID: -865392790, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 11
+      Sprite: {fileID: -1386371391, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 12
+      Sprite: {fileID: 1352320094, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 13
+      Sprite: {fileID: -1268023973, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 14
+      Sprite: {fileID: 741920579, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+  - Color: 1
+    SkinDatas:
+    - Type: 0
+      Sprite: {fileID: 1025051983, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 1
+      Sprite: {fileID: -151361272, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 2
+      Sprite: {fileID: 1859166184, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 3
+      Sprite: {fileID: 1704429058, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 4
+      Sprite: {fileID: -286903054, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 5
+      Sprite: {fileID: -526534760, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 6
+      Sprite: {fileID: 1394380076, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 7
+      Sprite: {fileID: -730247751, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 8
+      Sprite: {fileID: -1225743109, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 9
+      Sprite: {fileID: -1472892132, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 10
+      Sprite: {fileID: 1579653613, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 11
+      Sprite: {fileID: -1956513501, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 12
+      Sprite: {fileID: -1806372112, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 13
+      Sprite: {fileID: -1682162213, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 14
+      Sprite: {fileID: 1940889655, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+  - Color: 2
+    SkinDatas:
+    - Type: 0
+      Sprite: {fileID: -47272642, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 1
+      Sprite: {fileID: -1977586591, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 2
+      Sprite: {fileID: -1914506925, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 3
+      Sprite: {fileID: 625717982, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 4
+      Sprite: {fileID: -1522201150, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 5
+      Sprite: {fileID: 346865477, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 6
+      Sprite: {fileID: 1399390903, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 7
+      Sprite: {fileID: -1128599821, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 8
+      Sprite: {fileID: 2144250698, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 9
+      Sprite: {fileID: -139791353, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 10
+      Sprite: {fileID: 1276325823, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 11
+      Sprite: {fileID: -220746204, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 12
+      Sprite: {fileID: -764344238, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 13
+      Sprite: {fileID: 843661322, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 14
+      Sprite: {fileID: 1179619212, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+  - Color: 3
+    SkinDatas:
+    - Type: 0
+      Sprite: {fileID: -1316348776, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 1
+      Sprite: {fileID: -1262416153, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 2
+      Sprite: {fileID: -1304214459, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 3
+      Sprite: {fileID: -615228109, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 4
+      Sprite: {fileID: 1350831372, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 5
+      Sprite: {fileID: 651437423, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 6
+      Sprite: {fileID: -132679170, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 7
+      Sprite: {fileID: 1793469978, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 8
+      Sprite: {fileID: 1834998483, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 9
+      Sprite: {fileID: 725708496, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 10
+      Sprite: {fileID: -842629592, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 11
+      Sprite: {fileID: -93222778, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 12
+      Sprite: {fileID: 1041187220, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 13
+      Sprite: {fileID: 592680239, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 14
+      Sprite: {fileID: 1595727566, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+  - Color: 4
+    SkinDatas:
+    - Type: 13
+      Sprite: {fileID: 1010825847, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
+    - Type: 14
+      Sprite: {fileID: 1786768808, guid: 84ad5c5d5cfdd5348af1bfb79318fc40, type: 3}
